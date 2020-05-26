@@ -1,0 +1,9 @@
+﻿  №3.cpp
+c:\users\kiril\source\repos\№3\№3\№3.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kiril\source\repos\№3\№3\№3.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kiril\source\repos\№3\№3\№3.cpp(351): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\kiril\source\repos\№3\№3\№3.cpp(466): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kiril\source\repos\№3\№3\№3.cpp(468): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kiril\source\repos\№3\№3\№3.cpp(476): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kiril\source\repos\№3\№3\№3.cpp(477): warning C4018: <: несоответствие типов со знаком и без знака
+  №3.vcxproj -> C:\Users\kiril\source\repos\№3\Debug\№3.exe
